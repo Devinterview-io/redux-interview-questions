@@ -1,4 +1,4 @@
-# Top 100 Redux Interview Questions in 2025
+# Top 100 Redux Interview Questions in 2026
 
 <div>
 <p align="center">
